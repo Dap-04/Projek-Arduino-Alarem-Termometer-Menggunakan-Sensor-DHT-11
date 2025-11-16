@@ -72,3 +72,11 @@ void loop()
 
   delay(1000);
 }
+
+## Required components
+ * 1x Arduino UNO R3
+ * 1x Buzzer
+ * 1x DHT 11
+ * 1x LCD 16x2 with I2c
+ * 1x Breadbord
+ * Jumper wire (as needed)
