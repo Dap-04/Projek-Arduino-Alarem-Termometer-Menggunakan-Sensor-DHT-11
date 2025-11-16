@@ -80,3 +80,6 @@ void loop()
  * 1x LCD 16x2 with I2c
  * 1x Breadbord
  * Jumper wire (as needed)
+
+## Schematic Diagram
+![circuit diagram](https://github.com/Dap-04/Projek-Arduino-Alarem-Termometer-Menggunakan-Sensor-DHT-11/blob/12f4d31ded498c02a462b8f869f68cc81d1985c0/Screenshot%202025-11-16%20233940.png)
