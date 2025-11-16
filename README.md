@@ -1,5 +1,5 @@
 # Projek-Arduino-Alarem-Termometer-Menggunakan-Sensor-DHT-11
-//Project ini merupakan pengembangan alat pengukur suhu berbasis Internet of Things (IoT) yang dirancang untuk memantau suhu secara real-time, sistem ini dibangun menggunakan Arduino IDE sebagai platform pemrograman dan simulasi Proteus sebelum direalisasikan pada perangkat fisik.
+Project ini merupakan pengembangan alat pengukur suhu berbasis Internet of Things (IoT) yang dirancang untuk memantau suhu secara real-time, sistem ini dibangun menggunakan Arduino IDE sebagai platform pemrograman dan simulasi Proteus sebelum direalisasikan pada perangkat fisik.
 
 
 ## Required components
@@ -17,4 +17,5 @@
 
 ## NOTE
 Pay attention to the pin numbers in the source code to make it work!
+
 Perhatikan nomor pin yang digunakan dalam kode sumber untuk membuatnya berfungsi!
