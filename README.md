@@ -14,6 +14,7 @@ Project ini merupakan pengembangan alat pengukur suhu berbasis Internet of Thing
 ## Schematic Proteus 8 Pro
 ![circuit diagram](https://github.com/Dap-04/Projek-Arduino-Alarem-Termometer-Menggunakan-Sensor-DHT-11/blob/12f4d31ded498c02a462b8f869f68cc81d1985c0/Screenshot%202025-11-16%20233940.png)
 
+## Schematic Fritzing
 
 ## NOTE
 Pay attention to the pin numbers in the source code to make it work!
