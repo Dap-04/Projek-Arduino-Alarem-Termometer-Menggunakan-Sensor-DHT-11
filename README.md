@@ -17,6 +17,9 @@ Project ini merupakan pengembangan alat pengukur suhu berbasis Internet of Thing
 ## Schematic Fritzing
 ![Skema fritzing.png](https://github.com/Dap-04/Projek-Arduino-Alarem-Termometer-Menggunakan-Sensor-DHT-11/blob/main/Skema%20fritzing.png)
 
+## Code
+https://github.com/Dap-04/Projek-Arduino-Alarem-Termometer-Menggunakan-Sensor-DHT-11/blob/main/main.ino
+
 ## NOTE
 Pay attention to the pin numbers in the source code to make it work!
 
